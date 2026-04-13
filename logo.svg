@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 520 130"
+  width="520"
+  height="130"
+  role="img"
+  aria-label="Fins Associates logo">
+
+  <title>Fins Associates</title>
+  <desc>Logo for Fins Associates — Assurance, Tax and Advisory firm in Tanzania.</desc>
+
+  <defs>
+    <style>
+      .fins {
+        font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
+        font-size: 40px;
+        font-weight: 800;
+        fill: #011E41;
+        letter-spacing: -1px;
+      }
+
+      .assoc {
+        font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
+        font-size: 34px;
+        font-weight: 600;
+        fill: #8C6A1F;
+        letter-spacing: -0.5px;
+      }
+
+      .services {
+        font-family: 'Inter', 'Manrope', sans-serif;
+        font-size: 9.5px;
+        font-weight: 600;
+        fill: #8C6A1F;
+        letter-spacing: 2.8px;
+        opacity: 0.9;
+      }
+
+      .slogan {
+        font-family: 'Inter', 'Manrope', sans-serif;
+        font-size: 9px;
+        font-weight: 500;
+        font-style: italic;
+        fill: #5F7A91;
+        letter-spacing: 0.4px;
+      }
+    </style>
+  </defs>
+
+
+
+  <!-- ═══════════════════════════════════════ -->
+  <!--  FIN MARK (refined alignment)         -->
+  <!-- ═══════════════════════════════════════ -->
+
+  <!-- Left blade -->
+  <path
+    d="M54 46 L12 112 L26 112 L58 62 Z"
+    fill="#707f90"
+    opacity="0.72"/>
+
+  <!-- Right blade -->
+  <path
+    d="M54 46 L96 112 L82 112 L50 62 Z"
+    fill="#a1a9b3"
+    opacity="0.48"/>
+
+  <!-- Central spine -->
+  <path
+    d="M54 -6
+       L54 46
+       L34 112
+       L54 82
+       L74 112
+       L54 46 Z"
+    fill="#011E41"/>
+
+  <!-- Accent bar -->
+  <rect
+    x="24" y="78"
+    width="60" height="2.5"
+    rx="1.25"
+    fill="#C9A24A"
+    opacity="0.35"/>
+
+  <!-- ═══════════════════════════════════════ -->
+  <!--  WORDMARK (balanced Big 4 layout)     -->
+  <!-- ═══════════════════════════════════════ -->
+
+  <!-- Fins -->
+  <text x="110" y="68" class="fins">Fins</text>
+
+  <!-- Associates -->
+  <text x="205" y="68" class="assoc">Associates</text>
+
+  <!-- Services -->
+  <text x="135" y="84" class="services">ASSURANCE  |  TAX  |  ADVISORY</text>
+
+  <!-- Slogan -->
+  <text x="145" y="108" class="slogan">Integrity and Precision. Sustainable Value.</text>
+
+</svg>
